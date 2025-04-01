@@ -1,1 +1,2 @@
 Este es mi primer archivo en Git usando Visual Studio Code
+Agregando información para el "commit"
